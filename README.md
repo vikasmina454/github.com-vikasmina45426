@@ -1,2 +1,2 @@
-# github.com-seminar2
+# github.com-safety
 this for seminar 
