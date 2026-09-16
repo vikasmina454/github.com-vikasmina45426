@@ -1,2 +1,2 @@
-# github.com-vikasmina45426
+# github.com-seminar2
 this for seminar 
